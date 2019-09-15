@@ -18,6 +18,11 @@ With SpeedTorch, I do not have any more computational limits for training decent
 
 NOTE: If using colab, you'll need the version of the Colab notebook that has 25 gb of RAM, instead of the usual 12 gb. To get this type of instance, you need to crash your current instance due to overwhelming the RAM, and then a note in the bottom left corner asking if you would like to upgrade. You can do this by making a loop that keeps doubling the size of a numpy float matrix. 
 
+Here is a direct lnk to the notebook, using SpeedTorch
 
+https://colab.research.google.com/drive/1H0RNhz1jliW6gWmg5caaxbMiDcMZuJ-0
 
+Here is a version of the notebook without SpeedTorch. In Colab, it can only handle about half the embedding size (94-96) without SpeedTorch. 
+
+https://colab.research.google.com/drive/1jh7RUgeajhdWdGNfWG3Twm1ZjyTQU0KR
 
